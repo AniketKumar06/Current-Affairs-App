@@ -1,2 +1,3 @@
 # Current-Affairs-App
 This app is designed to provide daily current affairs questions to help users stay informed and up-to-date on the latest news and events..
+Users can download the app and receive a daily notification with a new question, covering a wide range of topics such as politics, technology, sports, and entertainment. The questions are designed to challenge users' knowledge and provide a fun way to learn about current events. Users can also view past questions and answers to track their progress and improve their knowledge. The app is user-friendly and can be used by anyone who wants to stay informed about the world around them.
